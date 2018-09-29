@@ -1,0 +1,71 @@
+    .button,button_c,button_w {
+        background-color: #008CBA;
+        border: none;
+        color: white;
+        width:100px;
+        height:55px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    
+    .button_c{ 
+        border: none;
+        width:100px;
+        height:55px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #33cc33;
+        color: white;
+    }
+    
+    .button_w{        
+        border: none;
+        color: white;
+        width:100px;
+        height:55px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #ff5050;
+    }
+    .ticket{
+        margin: 0 auto;
+        width: 50%;
+    }
+    #startbtn {
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 20px;
+      background: #00ced1;
+        float:left;
+        width:100px;
+        height: 62px;
+      padding: 10px 10px;
+      text-decoration: none;
+    }
+    
+    #startbtn:hover {
+      background: #00ffff;
+        color:#2f4f4f;
+      text-decoration: none;
+    }
+    #wrapper {
+                width: 100%;
+                margin: 0 auto;
+            }
+    #score  {
+                float: right;
+                width:200px;
+                color:grey;
+    }
